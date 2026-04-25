@@ -1,4 +1,4 @@
-# the-infinite-power-of-two
+
 infinite power of two
 # Infinite Power of Two Calculator
 ## A Comprehensive Technical Documentation & Architectural Analysis
